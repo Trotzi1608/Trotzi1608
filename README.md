@@ -1,5 +1,5 @@
 ### Hi 👋 ich bin André Trotzowski
-Anwendungsentwickler in Ausbildung | Interessiert an Backend
+🧑‍💻 Anwendungsentwickler in Ausbildung | Interessiert an Backend
 #### Tech Stack
 - ⌨️ Java, HTML, CSS
 - 🖥️ IntelliJ, Eclipse, VSCode, Android Studio
